@@ -1,0 +1,17 @@
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\Lab2Ex2.dll
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\bin\Debug\netcoreapp2.1\Lab2Ex2.pdb
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\Facultate\DotNet\Lab2\Lab2Ex2\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb

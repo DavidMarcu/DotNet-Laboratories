@@ -1,0 +1,6 @@
+D:\Facultate\DotNet\Lab2\Lab2Ex1\Lab2Ex1\bin\Debug\Lab2Ex1.exe.config
+D:\Facultate\DotNet\Lab2\Lab2Ex1\Lab2Ex1\bin\Debug\Lab2Ex1.exe
+D:\Facultate\DotNet\Lab2\Lab2Ex1\Lab2Ex1\bin\Debug\Lab2Ex1.pdb
+D:\Facultate\DotNet\Lab2\Lab2Ex1\Lab2Ex1\obj\Debug\Lab2Ex1.csproj.CoreCompileInputs.cache
+D:\Facultate\DotNet\Lab2\Lab2Ex1\Lab2Ex1\obj\Debug\Lab2Ex1.exe
+D:\Facultate\DotNet\Lab2\Lab2Ex1\Lab2Ex1\obj\Debug\Lab2Ex1.pdb
