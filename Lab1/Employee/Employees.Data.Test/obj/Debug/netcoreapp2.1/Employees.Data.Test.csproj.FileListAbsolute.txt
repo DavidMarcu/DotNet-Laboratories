@@ -1,0 +1,17 @@
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\obj\Debug\netcoreapp2.1\Employees.Data.Test.csprojAssemblyReference.cache
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\obj\Debug\netcoreapp2.1\Employees.Data.Test.csproj.CoreCompileInputs.cache
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\obj\Debug\netcoreapp2.1\Employees.Data.Test.AssemblyInfoInputs.cache
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\obj\Debug\netcoreapp2.1\Employees.Data.Test.AssemblyInfo.cs
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Employees.Data.Test.deps.json
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Employees.Data.Test.runtimeconfig.json
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Employees.Data.Test.runtimeconfig.dev.json
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Employees.Data.Test.dll
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Employees.Data.Test.pdb
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Employees.Data.dll
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\bin\Debug\netcoreapp2.1\Employees.Data.pdb
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\obj\Debug\netcoreapp2.1\Employees.Data.Test.csproj.CopyComplete
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\obj\Debug\netcoreapp2.1\Employees.Data.Test.dll
+D:\Facultate\DotNet\Lab1\Employee\Employees.Data.Test\obj\Debug\netcoreapp2.1\Employees.Data.Test.pdb

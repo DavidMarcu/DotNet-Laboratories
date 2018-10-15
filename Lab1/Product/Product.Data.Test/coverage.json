@@ -1,0 +1,66 @@
+{
+  "D:\\Facultate\\DotNet\\Lab1\\Product\\Product.Data.Test\\bin\\Debug\\netcoreapp2.1\\Product.Data.dll": {
+    "D:\\Facultate\\DotNet\\Lab1\\Product\\Product.Data\\Product.cs": {
+      "Product.Data.Product": {
+        "System.Int32 Product.Data.Product::get_Id()": {
+          "Lines": {
+            "7": 2
+          },
+          "Branches": []
+        },
+        "System.String Product.Data.Product::get_Name()": {
+          "Lines": {
+            "8": 2
+          },
+          "Branches": []
+        },
+        "System.String Product.Data.Product::get_Description()": {
+          "Lines": {
+            "9": 2
+          },
+          "Branches": []
+        },
+        "System.DateTime Product.Data.Product::get_StartDate()": {
+          "Lines": {
+            "10": 13
+          },
+          "Branches": []
+        },
+        "System.DateTime Product.Data.Product::get_EndDate()": {
+          "Lines": {
+            "11": 13
+          },
+          "Branches": []
+        },
+        "System.Single Product.Data.Product::get_Price()": {
+          "Lines": {
+            "12": 5
+          },
+          "Branches": []
+        },
+        "System.Single Product.Data.Product::get_VAT()": {
+          "Lines": {
+            "13": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean Product.Data.Product::IsValid()": {
+          "Lines": {
+            "15": 3,
+            "18": 3,
+            "19": 3
+          },
+          "Branches": []
+        },
+        "System.Single Product.Data.Product::ComputeVat()": {
+          "Lines": {
+            "21": 1,
+            "22": 1,
+            "23": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
