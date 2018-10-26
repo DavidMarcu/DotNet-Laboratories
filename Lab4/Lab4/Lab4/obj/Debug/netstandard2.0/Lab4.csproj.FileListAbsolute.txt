@@ -1,0 +1,9 @@
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\obj\Debug\netstandard2.0\Lab4.csproj.CoreCompileInputs.cache
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\obj\Debug\netstandard2.0\Lab4.AssemblyInfoInputs.cache
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\obj\Debug\netstandard2.0\Lab4.AssemblyInfo.cs
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\bin\Debug\netstandard2.0\Lab4.deps.json
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\bin\Debug\netstandard2.0\Lab4.dll
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\bin\Debug\netstandard2.0\Lab4.pdb
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\obj\Debug\netstandard2.0\Lab4.csprojAssemblyReference.cache
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\obj\Debug\netstandard2.0\Lab4.dll
+D:\Facultate\DotNet\DotNet-Laboratories\Lab4\Lab4\Lab4\obj\Debug\netstandard2.0\Lab4.pdb
